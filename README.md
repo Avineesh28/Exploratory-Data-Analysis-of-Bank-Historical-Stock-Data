@@ -5,11 +5,11 @@ We will focus on bank stocks and see how they progressed throughout the financia
 
 The following questions will be answered throughout the Project:
 
-# What is the max Close price for each bank's stock throughout the time period?
-# On what date did Citigroup stock reach its highest price?
-# Why does the first row have NaN values?
-# Is there a stock that stands out?
-# Did anything significant happen on 2009-01-20?
-# Which stock would you classify as the riskiest over the entire time period?
-# Which would you classify as the riskiest for the year 2015?
-# What is the rolling 30 day average against the Close Price for Bank Of America's stock for the year 2008?
+What is the max Close price for each bank's stock throughout the time period?
+On what date did Citigroup stock reach its highest price?
+Why does the first row have NaN values?
+Is there a stock that stands out?
+Did anything significant happen on 2009-01-20?
+Which stock would you classify as the riskiest over the entire time period?
+Which would you classify as the riskiest for the year 2015?
+What is the rolling 30 day average against the Close Price for Bank Of America's stock for the year 2008?
