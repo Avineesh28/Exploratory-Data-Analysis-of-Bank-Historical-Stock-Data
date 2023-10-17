@@ -1,4 +1,4 @@
-##**Exploratory Data Analysis of Bank Historical Stock Data**
+##Exploratory Data Analysis of Bank Historical Stock Data
 
 Welcome to our exploratory data analysis (EDA) project focused on analyzing historical stock data of banks. In this project, we delve into publicly available financial datasets, specifically bank stock prices, aiming to gain valuable insights into the banking industry's behavior. Our analysis spans the period from the financial crisis to early 2020, providing a comprehensive view of how bank stocks have progressed over time.
 
