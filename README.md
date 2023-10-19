@@ -28,7 +28,7 @@ For an immersive exploration of bank stock data trends, access our interactive d
 
 Feel free to fork this repository, contribute to the analysis, or adapt the scripts for your own financial datasets. Happy exploring!
 
-#Have a Look at Our Dashboard!
+## Have a Look at Our Dashboard!
 ![Page 1](https://github.com/Avineesh28/Exploratory-Data-Analysis-of-Bank-Historical-Stock-Data/assets/79737929/77b25eb1-1322-4d18-91d1-2c4585782ed8)
 
 ![Page 2](https://github.com/Avineesh28/Exploratory-Data-Analysis-of-Bank-Historical-Stock-Data/assets/79737929/3452f4f9-cc3a-482d-890e-5b3ea2e570ea)
